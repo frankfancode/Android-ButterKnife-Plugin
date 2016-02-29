@@ -4,3 +4,6 @@
 基于 [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny#butterknifezelezny)
  更改。
 用于生成和布局文件中 id 同名的 view，使用方法与 ButterKnifeZelezny 完全相同。
+
+改了这么一个方法
+Android-ButterKnife-Plugin/src/com/avast/android/butterknifezelezny/model/Element.getFieldName()
